@@ -2,6 +2,6 @@
 
 ### Ping single column coming soon page
 #### Mobile first Approach | Sass | Pure JS
-##### ✅ Fourteenth Day :: #100DaysCode
+##### Live Preview: https://sadeghrastgoo.github.io/Ping-single-column-coming-soon-page/
  
  <img src="design/desktop-preview.jpg"/>
